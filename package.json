@@ -1,0 +1,19 @@
+{
+  "name": "chordpro_parser",
+  "version": "1.0.0",
+  "description": "My attempt at parsing ChordPro",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esack7/chordpro_parser.git"
+  },
+  "author": "Isaac Heist",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/esack7/chordpro_parser/issues"
+  },
+  "homepage": "https://github.com/esack7/chordpro_parser#readme"
+}
