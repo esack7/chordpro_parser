@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/esack7/chordpro_parser/issues"
   },
-  "homepage": "https://github.com/esack7/chordpro_parser#readme"
+  "homepage": "https://github.com/esack7/chordpro_parser#readme",
+  "dependencies": {
+    "bluebird": "^3.5.1"
+  }
 }
